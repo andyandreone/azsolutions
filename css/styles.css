@@ -11450,8 +11450,10 @@ header.masthead h1, header.masthead .h1 {
 
 .logoMarca{
   display: inline-block;
+  text-align: center;
 }
 
 .logoMarca>img{
   height: 200px;
+  margin: 10px;
 }
